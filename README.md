@@ -1,3 +1,5 @@
+## Implementation of application
+![](public/pizza&kebab.gif)
 ## About application
 
 The <strong>Laravel 8.0</strong> application is for small eatery selling pizzas and kebabs. 
